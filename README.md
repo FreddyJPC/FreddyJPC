@@ -21,7 +21,7 @@ I enjoy transforming complex problems into elegant, efficient solutions. Whether
 
 ## Get In Touch
 
-I'm always excited to collaborate on challenging projects or discuss the latest trends in software development. Feel free to connect with me on [GitHub](https://github.com/yourusername) or drop me a message to talk tech!
+I'm always excited to collaborate on challenging projects or discuss the latest trends in software development. Feel free to connect with me on [GitHub](https://github.com/FreddyJPC) or drop me a message to talk tech!
 
 ---
 
